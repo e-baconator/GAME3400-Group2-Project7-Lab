@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &5285389793226778203
+--- !u!1001 &872825632343559391
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -10,27 +10,27 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
       propertyPath: m_LocalScale.x
-      value: 21.267
+      value: 12.535
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
       propertyPath: m_LocalScale.y
-      value: 21.267
+      value: 12.535
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
       propertyPath: m_LocalScale.z
-      value: 21.267
+      value: 12.535
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.4696083
+      value: 0.62532765
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.00000011920929
+      value: 0.12
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.5657048
+      value: -0.748384
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
       propertyPath: m_LocalRotation.w
@@ -66,17 +66,17 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
-    - {fileID: 9022215874312191456, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
     - {fileID: -7917291961305824890, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
-    - {fileID: -8513424388201257645, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
-    - {fileID: -3957782524123411102, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
-    - {fileID: -7609145667655734672, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
+    - {fileID: 9022215874312191456, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
     - {fileID: -344004081357383697, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
+    - {fileID: -7609145667655734672, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
+    - {fileID: -3957782524123411102, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
+    - {fileID: -8513424388201257645, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
+    - {fileID: 1507767883509144192, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
     - {fileID: 3587788796799408565, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
     - {fileID: 8536400945726557719, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
     - {fileID: 2040542448765327740, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
     - {fileID: 7750397243111347764, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
-    - {fileID: 1507767883509144192, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
     - {fileID: 2866621852552652557, guid: bef65f402c64a5e4fb449d21acd21bf1, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
