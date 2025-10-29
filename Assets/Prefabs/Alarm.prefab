@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 891864371133098855}
   - component: {fileID: 2525072097456137800}
+  - component: {fileID: 2628279744636722654}
   m_Layer: 0
   m_Name: Point Light
   m_TagString: Untagged
@@ -97,6 +98,18 @@ Light:
   m_LightUnit: 1
   m_LuxAtDistance: 1
   m_EnableSpotReflector: 1
+--- !u!114 &2628279744636722654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3135526896452535918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aa0b461ab781ce42bad23e2a12bb152, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AlarmLights
 --- !u!1001 &872825632343559391
 PrefabInstance:
   m_ObjectHideFlags: 0
