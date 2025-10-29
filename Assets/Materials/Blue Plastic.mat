@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Blue Plastic
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  m_Parent: {fileID: 2100000, guid: 81947a98d38c92744b5d285b0af3ce0e, type: 2}
+  m_Parent: {fileID: 2100000, guid: 5594190e1cbd249278e942df9fd6d396, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
